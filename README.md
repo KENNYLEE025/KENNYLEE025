@@ -53,6 +53,9 @@ gradlew.bat build
 ```
 
 **How to use**  
+- Download the source file for QuantumParkour
+- Open Intellij for Java
+- Open the source folder for QuantumParkour
 - Build the plugin JAR with Gradle.
 - Place the generated JAR into your Minecraft server's `plugins/` directory.
 - Start or restart the server.
