@@ -27,6 +27,8 @@ A custom C++ game engine workspace containing several technical game projects an
 - Multiple playable/gameplay-focused modules
 - Rendering, math, and debug visualization systems
 
+---
+
 ### 2. [QuantumParkour](https://github.com/KENNYLEE025/QuantumParkour)
 A Java plugin for Minecraft Java Edition designed around parkour gameplay systems and server-side tooling.
 
@@ -67,23 +69,6 @@ A browser-based visualizer for Geometry Dash object placement data. It helps use
 - GMD-to-XML work in progress
 - Tile/GD unit visualization support
 - Zoom controls for map exploration
-
----
-
-## Featured Project With README
-### [QuantumParkour](https://github.com/KENNYLEE025/QuantumParkour)
-
-
-**What it is**  
-QuantumParkour is an official server-side Minecraft plugin project focused on parkour gameplay systems. It includes checkpoints, database-backed progress handling, block event logic, level management, and social/gameplay command support.
-
-**Interesting code and systems**  
-The repository README calls out several core systems that make the project technically interesting:
-- Checkpoint handling for player progression
-- Database integration and debugging support
-- Event-driven block interaction systems
-- Level creation and administration features
-- Custom color formatting for server messaging
 
 ---
 
