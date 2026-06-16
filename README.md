@@ -37,34 +37,6 @@ A Java plugin for Minecraft Java Edition designed around parkour gameplay system
 - Level creation and management
 - RGB and hex color message support
 
-### 3. [GDObjectPlacementVisualizer](https://github.com/KENNYLEE025/GDObjectPlacementVisualizer)
-A browser-based visualizer for Geometry Dash object placement data. It helps users inspect level layouts spatially and analyze placed objects.
-
-**Highlights**
-- Spatial map viewer
-- ID filtering
-- GMD-to-XML work in progress
-- Tile/GD unit visualization support
-- Zoom controls for map exploration
-
----
-
-## Featured Project With README
-### [QuantumParkour](https://github.com/KENNYLEE025/QuantumParkour)
-
-<img src="https://raw.githubusercontent.com/KENNYLEE025/kennylee025.github.io/main/images/Doomenstein_1.png" alt="Project showcase image" width="720" />
-
-**What it is**  
-QuantumParkour is an official server-side Minecraft plugin project focused on parkour gameplay systems. It includes checkpoints, database-backed progress handling, block event logic, level management, and social/gameplay command support.
-
-**Interesting code and systems**  
-The repository README calls out several core systems that make the project technically interesting:
-- Checkpoint handling for player progression
-- Database integration and debugging support
-- Event-driven block interaction systems
-- Level creation and administration features
-- Custom color formatting for server messaging
-
 **How to build**  
 The repository includes `build.gradle`, `settings.gradle`, and Gradle wrapper files, so it can be built with Gradle from the project root.
 
@@ -86,19 +58,32 @@ gradlew.bat build
 
 ---
 
-## Additional Project With README
-### [GDObjectPlacementVisualizer](https://github.com/KENNYLEE025/GDObjectPlacementVisualizer)
+### 3. [GDObjectPlacementVisualizer](https://github.com/KENNYLEE025/GDObjectPlacementVisualizer)
+A browser-based visualizer for Geometry Dash object placement data. It helps users inspect level layouts spatially and analyze placed objects.
+
+**Highlights**
+- Spatial map viewer
+- ID filtering
+- GMD-to-XML work in progress
+- Tile/GD unit visualization support
+- Zoom controls for map exploration
+
+---
+
+## Featured Project With README
+### [QuantumParkour](https://github.com/KENNYLEE025/QuantumParkour)
+
 
 **What it is**  
-A lightweight HTML-based tool for visualizing Geometry Dash level object placement.
+QuantumParkour is an official server-side Minecraft plugin project focused on parkour gameplay systems. It includes checkpoints, database-backed progress handling, block event logic, level management, and social/gameplay command support.
 
-**How to use**  
-- Open `ObjectPlacementMap.html` in a browser.
-- Export level data using the tool referenced in the project README.
-- Load the level content into the visualizer to inspect object placement.
-
-**Project image / logo**  
-You can expand this section later with a dedicated screenshot or logo from the project itself.
+**Interesting code and systems**  
+The repository README calls out several core systems that make the project technically interesting:
+- Checkpoint handling for player progression
+- Database integration and debugging support
+- Event-driven block interaction systems
+- Level creation and administration features
+- Custom color formatting for server messaging
 
 ---
 
