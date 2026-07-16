@@ -1,8 +1,6 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/KENNYLEE025/kennylee025.github.io/main/images/Portfolio-Image.png" alt="Kenny Lee profile image" width="220" />
-
   # Kenny Lee
   **Game Developer | UI/UX Systems | Gameplay & Tools Programming**
 
