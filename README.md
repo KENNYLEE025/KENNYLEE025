@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <div align="center">
+ 
   # Kenny Lee
-  
   **Game Developer | UI/UX Systems | Gameplay & Tools Programming**
 
   [Portfolio](https://github.com/KENNYLEE025/kennylee025.github.io) • [LinkedIn](https://www.linkedin.com/in/kenny-lee-332528258/)
